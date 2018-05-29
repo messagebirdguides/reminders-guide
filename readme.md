@@ -11,7 +11,7 @@ For appointment-based services, no-shows are annoying and costly because of the 
 
 In this guide, we'll show you how to use the MessageBird SMS messaging API to build an SMS appointment reminder application in Node.js. This sample application represents the order website of a fictitious online beauty salon called *BeautyBird*. To reduce the growing number of no-shows, BeautyBird now collects appointment bookings through a form on their website and schedules timely SMS reminders to be sent out three hours before the selected date and time.
 
-To look at the full sample application or run it on your computer, go to [the GitHub repository](https://github.com/) and clone it or download the source code as a ZIP archive. You will need Node and npm to run the example, which you can easily [install from npmjs.com](https://www.npmjs.com/get-npm).
+To look at the full sample application or run it on your computer, go to [the GitHub repository](https://github.com/messagebirdguides/reminders-guide) and clone it or download the source code as a ZIP archive. You will need Node and npm to run the example, which you can easily [install from npmjs.com](https://www.npmjs.com/get-npm).
 
 Open a console pointed at the directory into which you've placed the sample application and run the following command to install the [MessageBird SDK for Node.js](https://www.npmjs.com/package/messagebird) and other dependencies:
 
@@ -203,7 +203,7 @@ You now have a running SMS appointment reminder application!
 
 You can now use the flow, code snippets and UI examples from this tutorial as an inspiration to build your own reminder system.
 
-Running into issues? Explore [the complete code on GitHub](https://github.com/) to see whether you might have missed something.
+Running into issues? Explore [the complete code on GitHub](https://github.com/messagebirdguides/reminders-guide) to see whether you might have missed something.
 
 ## Next steps
 
